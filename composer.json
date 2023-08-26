@@ -25,7 +25,6 @@
     },
     "config": {
         "bin-dir": "bin",
-        "optimize-autoloader": true,
         "sort-packages": true
     },
     "minimum-stability": "dev",
