@@ -42,7 +42,7 @@
             "Sunlight\\Composer\\ComposerBridge::updateDirectoryAccess"
         ],
         "post-update-cmd": [
-            "bin/console cms.update",
+            "bin/console cms.download",
             "@sunlight:post-composer"
         ],
         "post-install-cmd": [
