@@ -6,6 +6,8 @@
 !/plugins/templates/default
 /plugins/languages/*
 /plugins/templates/.htaccess
+/plugins/*/*/DISABLED
+/plugins/*/*/config.php
 /plugins/.htaccess
 /system/
 /upload/
