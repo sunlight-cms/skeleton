@@ -1,13 +1,12 @@
 /admin/
 /images/
 /install/
+/plugins/config/
 /plugins/extend/*
 /plugins/templates/*
 !/plugins/templates/default
 /plugins/languages/*
 /plugins/templates/.htaccess
-/plugins/*/*/DISABLED
-/plugins/*/*/config.php
 /plugins/.htaccess
 /system/
 /upload/
